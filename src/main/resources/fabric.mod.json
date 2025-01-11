@@ -17,6 +17,10 @@
 	"entrypoints": {
 		"main": [
 			"net.anevereto.bundlestweaks.BundlesTweaks"
+		],
+
+		"client": [
+			"net.anevereto.bundlestweaks.BundlesTweaksClient"
 		]
 	},
 	"mixins": [
