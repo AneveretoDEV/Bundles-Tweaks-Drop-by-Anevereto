@@ -1,4 +1,4 @@
-package net.aneverto.bundlestweaks;
+package net.anevereto.bundlestweaks;
 
 import net.fabricmc.api.ModInitializer;
 
@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class BundlesTweaks implements ModInitializer {
-	public static final String MOD_ID = "anesbundlestweaks";
+	public static final String MOD_ID = "anes-bundlestweaks";
 
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.
