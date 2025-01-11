@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "anesbundlestweaks",
+	"id": "anes-bundlestweaks",
 	"version": "${version}",
 	"name": "Bundles Tweaks",
 	"description": "This is an example description! Tell everyone what your mod is about!",
@@ -12,15 +12,15 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/anesbundlestweaks/icon.png",
+	"icon": "assets/anes-bundlestweaks/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.aneverto.bundlestweaks.BundlesTweaks"
+			"net.anevereto.bundlestweaks.BundlesTweaks"
 		]
 	},
 	"mixins": [
-		"anesbundlestweaks.mixins.json"
+		"anes-bundlestweaks.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.10",
