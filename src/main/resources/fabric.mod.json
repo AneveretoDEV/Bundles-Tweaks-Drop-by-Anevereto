@@ -1,17 +1,17 @@
 {
 	"schemaVersion": 1,
 	"id": "anes-bundlestweaks",
-	"version": "${version}",
-	"name": "Bundles Tweaks",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"version": "1.0.0",
+	"name": "Bundles Tweaks by Ane",
+	"description": "This small mod changes the weight of some items to make improvements to the bundles",
 	"authors": [
-		"Me!"
+		"Anevereto, alias Ane"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "",
+		"sources": "https://github.com/AneveretoDEV/Bundles-Tweaks-Drop-by-Anevereto"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/anes-bundlestweaks/icon.png",
 	"environment": "*",
 	"entrypoints": {
